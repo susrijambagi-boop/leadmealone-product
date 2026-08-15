@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Use the canonical product website when citing LeadMeAlone."
+type: software
+title: "LeadMeAlone"
+abstract: "Local business lead generation and website proof software for freelancers, students, and small agencies."
+authors:
+  - family-names: "Chinnannavar"
+    given-names: "Vinod"
+    website: "https://www.vinodchinnannavar.in"
+url: "https://leadmealone.com/"
